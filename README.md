@@ -3,3 +3,5 @@ Customer behavior insights of a Fast moving goods store  are extracted and analy
 - The purchase probability modeling and its Predictive Analysis
 - The probability of (chocolate bar) brand choice   and its Predictive Analysis
 - The purchase quantity modeling and its  Predictive Analysis
+
+Dataset information: All the datasets were provided by the 365Datascience training institution
